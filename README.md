@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-My name's Kameron, and I know very little about coding. Although, that will definitely change with the strenious practice I plan on doing. 
+My name's Kameron. I am going to the University of Louisiana at Monroe starting this August. I will be majoring in Computer Science.  
